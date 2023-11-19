@@ -1,0 +1,90 @@
+@font-face {
+    font-family: B612;
+    src: url(B612-Regular.ttf);
+}
+
+body {
+    font-family: B612;
+    font-size: 16px;
+    color: white;
+    background-color: pink;
+}
+
+.Football, .PHP, .PS {
+    column-count: 2;
+}
+
+.Zag {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+    
+dl {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.Footballl {
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 35px;
+    transition: all 0.4s linear;
+    background: linear-gradient(blue, pink);
+}
+
+.Footballl:hover {
+    transform:scale(1.05);
+}
+
+.vid {
+    padding-left: 75px;
+}
+
+.text {
+    padding-top: 20px;
+}
+
+.PHPP {
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 35px;
+    transition: all 0.4s linear;
+    background: linear-gradient(blue, pink);
+}
+
+.PHPP:hover {
+    transform:scale(1.05);
+}
+
+.PSS {
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 35px;    
+    transition: all 0.4s linear;
+    background: linear-gradient(blue, pink);
+}
+
+.PSS:hover {
+    transform:  scale(1.05);
+}
+
+header {
+    color: gray;
+}   
+
+footer {
+    background-color: gray;
+    height: 150px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.p {
+    padding-top: 50px;
+}
